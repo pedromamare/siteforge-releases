@@ -1,1 +1,11 @@
-{"version":"0.0.0","notes":"placeholder","pub_date":"2024-01-01T00:00:00Z","platforms":{}}
+{
+  "version": "0.1.16",
+  "notes": "SiteForge v0.1.16",
+  "pub_date": "2026-03-26T13:00:02.000Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSY3pxMlVTUXN6eUlpTUk5Tm1ncmlnWHU0RVAwV3NHRWJjOU0wUVMzbHlEU29HSmhLQ1hRSDhTcDFsQXFuR3I3Mys4WXQyS2lXYml3NW1jbkpINFA5eWl1RlJ1bi9MQXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTI5OTg4CWZpbGU6U2l0ZUZvcmdlLmFwcC50YXIuZ3oKQUl6aFl3TzQzYWZnUGJzY3AzMUZhWWVobUQzNkUxWUFHWXMrZFMvN2VrRjFDbDBhQWdVTHo1WTltZ1FUM1VqTjRESjdtN0J1cWlSVG5BL0pVZEtSREE9PQo=",
+      "url": "https://applu-siteforge-updates.ndciz2.easypanel.host/SiteForge.app.tar.gz"
+    }
+  }
+}
