@@ -1,11 +1,11 @@
 version: 1.1.2
 files:
   - url: https://github.com/pedromamare/siteforge-releases/releases/download/v1.1.2/SiteForge-1.1.2-arm64-mac.zip
-    sha512: hc/fSq52Xe9kphQdq+1ESv3KhVIAc8RjTZyXMeWzYG4GQFcQBntJ0rPRaGjoGmUK7Msbj8naHJO6VDVfPiRgzw==
-    size: 129374092
+    sha512: WYOZ1nXd7ZnPNL0ZIg9rsZ5xpEh1fhXDpiUaY8mq0L3HgbGdWq8NDeNWRGSGAvGryJVOchodKjwUQ2NISfqx8w==
+    size: 129377144
   - url: https://github.com/pedromamare/siteforge-releases/releases/download/v1.1.2/SiteForge-1.1.2-arm64.dmg
-    sha512: cK1zDHaAWnJEMO4LKVylFDipUtaxH3EcTsvO0fKDlfriJ2FurtdIrYesrtL1UAhvja+pBragiQBmrpjH3tcOvA==
-    size: 135550478
+    sha512: eY0ZoGw3iEnjlntPdHHRWzMfIKzpn8sTT4rAcEo3bPZt2yzaqn37vuffmJ2pGhU7/OXymMASCbfEF8QaXqCNKg==
+    size: 135554115
 path: SiteForge-1.1.2-arm64-mac.zip
-sha512: hc/fSq52Xe9kphQdq+1ESv3KhVIAc8RjTZyXMeWzYG4GQFcQBntJ0rPRaGjoGmUK7Msbj8naHJO6VDVfPiRgzw==
-releaseDate: '2026-03-31T11:04:53.455Z'
+sha512: WYOZ1nXd7ZnPNL0ZIg9rsZ5xpEh1fhXDpiUaY8mq0L3HgbGdWq8NDeNWRGSGAvGryJVOchodKjwUQ2NISfqx8w==
+releaseDate: '2026-03-31T11:21:05.691Z'
