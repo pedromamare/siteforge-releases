@@ -1,11 +1,11 @@
 version: 1.2.14
 files:
   - url: https://github.com/pedromamare/siteforge-releases/releases/download/v1.2.14/SiteForge-1.2.14-arm64-mac.zip
-    sha512: 77Wo3W3DbaVY54dKNuAyF04F+2GvvcIDfk9zSRDzulLGUPL2SAxGeiO1I9gusLp3696E0GRj8nK4CfDlMO2RiA==
-    size: 129416789
+    sha512: 70EMKAZrQSsfSxXtTZjnqx15br2vN+1prPSJ+UVrNS5bbEnAXFkgGbRN/Yw9ew3CTgUJNCGe8XTkBWvIH1DFGg==
+    size: 129608060
   - url: https://github.com/pedromamare/siteforge-releases/releases/download/v1.2.14/SiteForge-1.2.14-arm64.dmg
     sha512: 5MpFnbGzAUHsPx9c78/3K7pGzECJAAjBL/nZOPRtF1z6ZGvedXlmn7F/bXSkNXSC86wxyFUrghmClXO+ikya+A==
     size: 135602502
 path: SiteForge-1.2.14-arm64-mac.zip
-sha512: 77Wo3W3DbaVY54dKNuAyF04F+2GvvcIDfk9zSRDzulLGUPL2SAxGeiO1I9gusLp3696E0GRj8nK4CfDlMO2RiA==
+sha512: 70EMKAZrQSsfSxXtTZjnqx15br2vN+1prPSJ+UVrNS5bbEnAXFkgGbRN/Yw9ew3CTgUJNCGe8XTkBWvIH1DFGg==
 releaseDate: '2026-04-01T20:57:55.202Z'
