@@ -1,11 +1,11 @@
-version: 2.1.5
+version: 2.1.6
 files:
-  - url: SiteForge-2.1.5-arm64-mac.zip
-    sha512: yoGPIx2m5SoJVSMPPx0ZrV8942phFaQXSSb3rw+bYDcubUOdUoLfyljaFd/VWJrhGdz9pBKe+ReWlRxfh24Gng==
-    size: 131347863
-  - url: SiteForge-2.1.5-arm64.dmg
-    sha512: RQ+Q68CeCqliAuBGHipNs+47Ri7CuEEtrOfgcjY11MwKsspQjdL8XKi9SFJMvwLBpKVoRN6XcoBO9Y2luyHWBw==
-    size: 136294558
-path: SiteForge-2.1.5-arm64-mac.zip
-sha512: yoGPIx2m5SoJVSMPPx0ZrV8942phFaQXSSb3rw+bYDcubUOdUoLfyljaFd/VWJrhGdz9pBKe+ReWlRxfh24Gng==
-releaseDate: '2026-04-03T16:53:36.659Z'
+  - url: SiteForge-2.1.6-arm64-mac.zip
+    sha512: hZ/rOQ/FNor08kUGhb2Si4eNIBaPoQM9AbmFtslDi1hTkyoRNU19aXavsxLdnZ+zOc6+EMmHjGRGwUu3PD+kOg==
+    size: 131347977
+  - url: SiteForge-2.1.6-arm64.dmg
+    sha512: fGPG4tW18LtVWcONS2SHsTg+CRo1BhnYXJCluocPNx8z18Y2IRrZhp58sdziOC2k0Y7ua0HM4ofn9reqkOQv9w==
+    size: 136294007
+path: SiteForge-2.1.6-arm64-mac.zip
+sha512: hZ/rOQ/FNor08kUGhb2Si4eNIBaPoQM9AbmFtslDi1hTkyoRNU19aXavsxLdnZ+zOc6+EMmHjGRGwUu3PD+kOg==
+releaseDate: '2026-04-03T17:06:19.152Z'
