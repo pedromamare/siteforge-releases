@@ -1,8 +1,11 @@
-version: 2.1.7
+version: 2.1.8
 files:
-  - url: SiteForge-2.1.7-arm64-mac.zip
-    sha512: Yn7/vP94RXH3llMxobaB3Ita5i+o/KH1oiqxbPQXOaWJmYcYeEqqkSn/ED8FzwbpNKl3P5zlAeFv/YpllBYQCw==
-    size: 131383538
-path: SiteForge-2.1.7-arm64-mac.zip
-sha512: Yn7/vP94RXH3llMxobaB3Ita5i+o/KH1oiqxbPQXOaWJmYcYeEqqkSn/ED8FzwbpNKl3P5zlAeFv/YpllBYQCw==
-releaseDate: '2026-04-03T17:15:17.588Z'
+  - url: https://github.com/pedromamare/siteforge-releases/releases/download/v2.1.8/SiteForge-2.1.8-arm64-mac.zip
+    sha512: J3iOXWFRbyMIMWkhszZGCW/ne259nKYIayJix+8cyUphBQDg8QNcjID0B8YDyhLkKLOEn6Yk7Syq+ApJbsShyQ==
+    size: 131571621
+  - url: https://github.com/pedromamare/siteforge-releases/releases/download/v2.1.8/SiteForge-2.1.8-arm64.dmg
+    sha512: LPHQgnzG9zaJAQonTB3n0WtXzredAABqCMit0rxRyztM2IUB7L6ydGWMHkx9tZYruOLzv85XVvAXsb0bgnTJTQ==
+    size: 137452684
+path: SiteForge-2.1.8-arm64-mac.zip
+sha512: J3iOXWFRbyMIMWkhszZGCW/ne259nKYIayJix+8cyUphBQDg8QNcjID0B8YDyhLkKLOEn6Yk7Syq+ApJbsShyQ==
+releaseDate: '2026-04-04T14:33:33.629Z'
