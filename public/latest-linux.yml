@@ -1,0 +1,12 @@
+version: 2.3.3
+files:
+  - url: https://github.com/pedromamare/siteforge-releases/releases/download/v2.3.3/SiteForge-2.3.3.AppImage
+    sha512: iPkDJ0NHDOt2l1mLkNl0d24eK2IuPpjoLo+99guLFAS+wLKeE/jw8MzdZJFHtMbbdq2M+SEohgCrbdghb8eerw==
+    size: 157829084
+    blockMapSize: 161776
+  - url: siteforge_2.3.3_amd64.deb
+    sha512: 13WBfxgwCI00ZIR1JBTwHrChlf/kP4jrBYffVqF274YBNq86PqvVkkV/TxJ1IwGXQGh2EnIVE6ONXVuroHUuSg==
+    size: 116984976
+path: SiteForge-2.3.3.AppImage
+sha512: iPkDJ0NHDOt2l1mLkNl0d24eK2IuPpjoLo+99guLFAS+wLKeE/jw8MzdZJFHtMbbdq2M+SEohgCrbdghb8eerw==
+releaseDate: '2026-04-08T11:42:43.185Z'
