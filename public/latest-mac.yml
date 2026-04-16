@@ -1,11 +1,11 @@
-version: 2.5.3
+version: 2.5.4
 files:
-  - url: https://github.com/pedromamare/siteforge-releases/releases/download/v2.5.3/SiteForge-2.5.3-arm64-mac.zip
-    sha512: HawBeyglom6Ohg06PPoo42w5rfs5tx/W+7uAUvCmxTxJbmXqJKiT9YVCI0cSdB66GR3Cvvv7tcf8URovPHT76g==
-    size: 148585050
-  - url: https://github.com/pedromamare/siteforge-releases/releases/download/v2.5.3/SiteForge-2.5.3-arm64.dmg
-    sha512: aGxP5mxgxVLZv7cMZmFSu9G04oXnYyBQgpt/94yP/NIaEY5IZZX36rRazhTqDlrIOSa40r74qbtoV1mAU0LniA==
-    size: 155452159
-path: SiteForge-2.5.3-arm64-mac.zip
-sha512: HawBeyglom6Ohg06PPoo42w5rfs5tx/W+7uAUvCmxTxJbmXqJKiT9YVCI0cSdB66GR3Cvvv7tcf8URovPHT76g==
-releaseDate: '2026-04-16T09:32:44.910Z'
+  - url: https://github.com/pedromamare/siteforge-releases/releases/download/v2.5.4/SiteForge-2.5.4-arm64-mac.zip
+    sha512: 7WpT8c3Ta3gLCdUdYdXPR6zGcFU4IckJKacoZ8u7zwFwJo51b9j0vcqFpf+nwSqEMoEyfUu27+fVBSLjb3ls/A==
+    size: 148585466
+  - url: https://github.com/pedromamare/siteforge-releases/releases/download/v2.5.4/SiteForge-2.5.4-arm64.dmg
+    sha512: JcoDo//f8NwT8PtQmK5fiqdf7joK5+JWxr6V93sM+0OGsCjtfVoLIwrP+RJgrGBAHavvc9SaP93H7zvtKwu01Q==
+    size: 155445259
+path: SiteForge-2.5.4-arm64-mac.zip
+sha512: 7WpT8c3Ta3gLCdUdYdXPR6zGcFU4IckJKacoZ8u7zwFwJo51b9j0vcqFpf+nwSqEMoEyfUu27+fVBSLjb3ls/A==
+releaseDate: '2026-04-16T10:00:14.716Z'
