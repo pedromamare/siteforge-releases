@@ -1,12 +1,12 @@
-version: 2.5.26
+version: 2.5.27
 files:
-  - url: https://github.com/pedromamare/siteforge-releases/releases/download/v2.5.26/SiteForge-2.5.26.AppImage
-    sha512: 9R+rBAsmmF43juWt9suFIFwtDeGOKI32i9rs2a0trhvlmppt6PkRzPpTRyksdORoEbhNGp2KJvjV55wu34iHuw==
-    size: 172189395
-    blockMapSize: 177895
-  - url: siteforge_2.5.26_amd64.deb
-    sha512: e4nzPDsXEN58hfcLMRV/SLmIJkXRF+4dtQHEsAXgeEGzCIteLf201CAqvYdG2JuTHsEK4Mi2E6M41jDxhRFIjQ==
-    size: 126122920
-path: SiteForge-2.5.26.AppImage
-sha512: 9R+rBAsmmF43juWt9suFIFwtDeGOKI32i9rs2a0trhvlmppt6PkRzPpTRyksdORoEbhNGp2KJvjV55wu34iHuw==
-releaseDate: '2026-04-26T20:06:24.717Z'
+  - url: https://github.com/pedromamare/siteforge-releases/releases/download/v2.5.27/SiteForge-2.5.27.AppImage
+    sha512: q87nLUs4QQKHForWbWzS0rnp/GAq4LEVVOF8UkgdB2ZAKZ66aFCMqPwSUa7YwgXxXsGDeyFjNdnNKym9mmIXug==
+    size: 172189453
+    blockMapSize: 177953
+  - url: siteforge_2.5.27_amd64.deb
+    sha512: jl+eOBfj4pK9uOu0CS/ZYWD4PBouOtaGs/rTommidtYV/gw/vOLoNmJMCMezoB1FMuE+2MJvtFtdCMjVMBq7dw==
+    size: 126123392
+path: SiteForge-2.5.27.AppImage
+sha512: q87nLUs4QQKHForWbWzS0rnp/GAq4LEVVOF8UkgdB2ZAKZ66aFCMqPwSUa7YwgXxXsGDeyFjNdnNKym9mmIXug==
+releaseDate: '2026-04-26T21:03:37.292Z'
