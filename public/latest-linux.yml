@@ -1,12 +1,12 @@
-version: 2.5.23
+version: 2.5.26
 files:
-  - url: https://github.com/pedromamare/siteforge-releases/releases/download/v2.5.23/SiteForge-2.5.23.AppImage
-    sha512: 5/s5e3Y3r6+GR70+9srEcb6feey7W95Gg4GWkey5Wt4E5JvBEimQ2ZX2UXK1xRcoAVfV3JS3s5YC3Wl4nlzTnA==
-    size: 172189586
-    blockMapSize: 178086
-  - url: siteforge_2.5.23_amd64.deb
-    sha512: ghCBHq+WdwLp33y8xCx55joN+6mfJvcfdDW5m6MYPhCU/bo/Wjwz5o0tlOQVpaMV0Ma3C2859XM6sOtS6ZIG/g==
-    size: 126121052
-path: SiteForge-2.5.23.AppImage
-sha512: 5/s5e3Y3r6+GR70+9srEcb6feey7W95Gg4GWkey5Wt4E5JvBEimQ2ZX2UXK1xRcoAVfV3JS3s5YC3Wl4nlzTnA==
-releaseDate: '2026-04-26T17:53:19.200Z'
+  - url: https://github.com/pedromamare/siteforge-releases/releases/download/v2.5.26/SiteForge-2.5.26.AppImage
+    sha512: 9R+rBAsmmF43juWt9suFIFwtDeGOKI32i9rs2a0trhvlmppt6PkRzPpTRyksdORoEbhNGp2KJvjV55wu34iHuw==
+    size: 172189395
+    blockMapSize: 177895
+  - url: siteforge_2.5.26_amd64.deb
+    sha512: e4nzPDsXEN58hfcLMRV/SLmIJkXRF+4dtQHEsAXgeEGzCIteLf201CAqvYdG2JuTHsEK4Mi2E6M41jDxhRFIjQ==
+    size: 126122920
+path: SiteForge-2.5.26.AppImage
+sha512: 9R+rBAsmmF43juWt9suFIFwtDeGOKI32i9rs2a0trhvlmppt6PkRzPpTRyksdORoEbhNGp2KJvjV55wu34iHuw==
+releaseDate: '2026-04-26T20:06:24.717Z'
