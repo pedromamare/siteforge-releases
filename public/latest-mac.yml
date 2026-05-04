@@ -1,11 +1,8 @@
 version: 2.5.32
 files:
-  - url: https://github.com/pedromamare/siteforge-releases/releases/download/v2.5.32/SiteForge-2.5.32-arm64-mac.zip
-    sha512: 4aXrSFo+16TWkyIKxc4DGaHdSb8Ivqjtm1VCq6TLbpV3RPG1NEpe/d01c5ikCA0uNx55V/5ZUSAckRhok1f6sw==
-    size: 161836380
-  - url: https://github.com/pedromamare/siteforge-releases/releases/download/v2.5.32/SiteForge-2.5.32-arm64.dmg
-    sha512: wLYjSzzj0DZJU4VlBUl1SDxqt6w1vuzzTpmgp0h9EL90E+Kr89OZfMpyGP6zbVgENwl9hIi/9w+D5QjmGMHuSg==
-    size: 169266052
+  - url: SiteForge-2.5.32-arm64-mac.zip
+    sha512: gezjpJh7qF1GiluqgOoSur1ujIhK82w7bzIX8wlEybeqngvhiCXEO4Sc0JgfG1+VQsrGExRuQASBwxrh4R9rAw==
+    size: 162876973
 path: SiteForge-2.5.32-arm64-mac.zip
-sha512: 4aXrSFo+16TWkyIKxc4DGaHdSb8Ivqjtm1VCq6TLbpV3RPG1NEpe/d01c5ikCA0uNx55V/5ZUSAckRhok1f6sw==
-releaseDate: '2026-05-04T16:50:47.567Z'
+sha512: gezjpJh7qF1GiluqgOoSur1ujIhK82w7bzIX8wlEybeqngvhiCXEO4Sc0JgfG1+VQsrGExRuQASBwxrh4R9rAw==
+releaseDate: '2026-05-04T16:58:27.848Z'
